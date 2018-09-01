@@ -1,5 +1,5 @@
 # swerve
-Project by [Aiden Bai](https://github.com/innerjoker), download [here](https://github.com/innerjoker/swerve-ev3/raw/master/Swerve.ev3)
+Project by [Aiden Bai](https://github.com/innerjoker), download [here](https://github.com/innerjoker/swerve/raw/master/Swerve.ev3)
 
 **Please calibrate these**:
  - Motor ports (default B+C)
